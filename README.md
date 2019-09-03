@@ -16,3 +16,5 @@ Put the .dll file in to the plugins folder hearthstone deck tracker
 ![alt text](https://i.imgur.com/wQaCeN2.png)
 
 
+# Where can I find my data?
+C:\Users\YOUR_NAME\AppData\Local\HearthstoneDeckTracker\app-1.8.16\win_rates
